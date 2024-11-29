@@ -62,3 +62,7 @@ node_modules/
 .env.local
 
 dist/
+
+# CDK asset staging directory
+.cdk.staging
+cdk.out
