@@ -11,7 +11,7 @@
     "test": "jest",
     "test:watch": "jest --watch",
     "watch": "tsc -w",
-    "prepare": "husky install"
+    "prepare": "husky"
   },
   "license": "MIT",
   "devDependencies": {
