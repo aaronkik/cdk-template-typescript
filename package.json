@@ -19,7 +19,7 @@
     "@eslint/js": "9.30.0",
     "@types/jest": "29.5.14",
     "@types/node": "22.15.34",
-    "aws-cdk": "2.1019.2",
+    "aws-cdk": "2.1020.0",
     "esbuild": "0.25.5",
     "eslint": "9.30.0",
     "eslint-config-prettier": "10.1.5",
