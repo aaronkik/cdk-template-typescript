@@ -20,7 +20,7 @@
     "@types/jest": "30.0.0",
     "@types/node": "22.19.1",
     "aws-cdk": "2.1033.0",
-    "esbuild": "0.27.0",
+    "esbuild": "0.27.1",
     "eslint": "9.38.0",
     "eslint-config-prettier": "10.1.8",
     "husky": "9.1.7",
