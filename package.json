@@ -21,7 +21,7 @@
     "@types/node": "24.12.2",
     "aws-cdk": "2.1117.0",
     "esbuild": "0.28.0",
-    "eslint": "10.1.0",
+    "eslint": "10.2.0",
     "eslint-config-prettier": "10.1.8",
     "husky": "9.1.7",
     "jest": "30.3.0",
